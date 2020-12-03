@@ -119,7 +119,7 @@ In any case it is recommended to use the qcow2 since it's natively supported by 
 * Disable HPET
 * Disable FD Boot Check
 * Higher Priority (Some time might provide faster performance)
-* Reverse Display (Only for DSL interface, currently not supported)
+* Reverse Display (Only for SDL interface, currently not supported)
   
 ## Sound Configuration  
 Only for SDL Interface and very choppy (Currently not supported)  
