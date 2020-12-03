@@ -2,8 +2,16 @@ Slax: For those who want a currently active light weight linux distribution with
 
 You can download the live ISO from the official website:
 https://www.slax.org
- 
-## Slax installation vm 
+
+You can boot the live ISO from Limbo
+## Limbo Configuration
+cpu: x86
+memory: 512
+net: user
+nic: default
+hda: slax.qcow2
+
+## Slax installation to hard disk (Optional)
 Install Slax on the hard disk image on your desktop using QEMU
 This will be faster than doing it on your android device.
 Once you are done you can copy the qcow2 image to your phone.
@@ -51,6 +59,7 @@ cpu: x86
 memory: 512
 net: user
 nic: default
+hda: slax.qcow2
 
 Notes: 
 To connect from android with SSH and FTP (Optional) use:
