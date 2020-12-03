@@ -9,7 +9,7 @@ cpu: x86
 memory: 512  
 net: user  
 nic: default  
-hda: slax.qcow2  
+cdrom: slax.iso
 
 ## Slax installation to hard disk (Optional)
 Install Slax on the hard disk image on your desktop using QEMU.  
