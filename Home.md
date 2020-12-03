@@ -18,4 +18,4 @@ Limbo Emulator is Open Source Software, you can find a copy of our source code i
 
 
 Latest Release
-Limbo PC Emulator ver 4.1.0
+Limbo PC Emulator ver 5.0.0
