@@ -12,5 +12,8 @@ SSH Client to use when connecting to your vm with forward port
 [ZArchiver](https://play.google.com/store/apps/details?id=ru.zdevs.zarchiver)
 File Extractor for use with compressed images.  
 
-[ES File Explorer](https://play.google.com/store/apps/details?id=com.estrongs.android.pop)
+[X-plore File Manager](https://play.google.com/store/apps/details?id=com.lonelycatgames.Xplore)
 File Manager with FTP client for sharing files with the virtual machines  
+
+[QEMU](https://www.qemu.org)
+for desktop to setup your virtual disk images.
