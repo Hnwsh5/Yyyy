@@ -1,1 +1,1 @@
-Coming soon
+Frequently Asked Questions
