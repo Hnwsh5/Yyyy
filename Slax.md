@@ -1,11 +1,11 @@
-Slax: For those who want a currently active light weight linux distribution with a 5.x linux kernel and have a high end Android device.
+Slax: For those who want a currently active light weight linux distribution with a 4.x linux kernel and have a high end Android device.
 
 You can download the live ISO from the official website:
 https://www.slax.org
 
 You can boot the live ISO from Limbo
 ## Limbo Configuration
-cpu: x86  
+cpu: x64  
 memory: 512  
 net: user  
 nic: default  
@@ -57,7 +57,7 @@ to search in apt for a package:
 apt-cache search keyword  
   
 ### Limbo setup with hard disk  
-cpu: x86  
+cpu: x64  
 memory: 512  
 net: user  
 nic: default  
