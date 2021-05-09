@@ -1,7 +1,7 @@
 ## Limbo v5.1.0
   
-fixed problem when importing machines
-no signalfd for better compatibility
+fixed problem when importing machines  
+no signalfd for better compatibility  
    
   
 ## Known Issues:  	
