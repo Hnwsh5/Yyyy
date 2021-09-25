@@ -1,6 +1,4 @@
-## Limbo v6.0.0
-  
-## Downloads  	
+## Limbo v6.0.0 Downloads  	
 See https://github.com/limboemu/limbo/releases for download binary apks.	
 ** If you're upgrading to version 4 from version 2 or 3 you have to **uninstall** and do a **fresh install**. Make sure you **export** your virtual machines before you uninstall and then **re-import** them.
   
